@@ -48,7 +48,7 @@ return array(
 		'parent' => array(
 			'jcore/grid'
 		),
-		'textdomain' => 'jcore-grid',
+		'textdomain' => 'jcore-ruudukko',
 		'editorScript' => 'file:./index.js',
 		'editorStyle' => 'file:./index.css'
 	),
@@ -108,7 +108,7 @@ return array(
 			),
 			'html' => false
 		),
-		'textdomain' => 'jcore-grid',
+		'textdomain' => 'jcore-ruudukko',
 		'editorScript' => 'file:./index.js',
 		'editorStyle' => 'file:./index.css'
 	)

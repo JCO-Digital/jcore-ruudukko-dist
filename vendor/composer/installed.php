@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'jcodigital/jcore-grid',
+        'name' => 'jcodigital/jcore-ruudukko',
         'pretty_version' => '0.1.0',
         'version' => '0.1.0.0',
         'reference' => null,
@@ -10,7 +10,7 @@
         'dev' => false,
     ),
     'versions' => array(
-        'jcodigital/jcore-grid' => array(
+        'jcodigital/jcore-ruudukko' => array(
             'pretty_version' => '0.1.0',
             'version' => '0.1.0.0',
             'reference' => null,
