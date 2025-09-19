@@ -15,7 +15,7 @@
     }
   }
   @each $bp, $width in $breakpoints {
-    @media (width >= $width) {
+    @media (min-width: $width) {
       @for $i from 1 through 6 {
         &.columns-#{$bp}-#{$i} > div {
           width: calc(100% / $i);
